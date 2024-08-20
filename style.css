@@ -258,10 +258,10 @@ section {
     gap: 1rem;
 }
 
-/* About Section */
+/* ABOUT SECTION */
 
 #about {
-    position: relative;
+  position: relative;
 }
 
 .about-containers {
@@ -275,7 +275,8 @@ section {
   flex-direction: column;
 }
 
-.about-containers, .about-details-container {
+.about-containers,
+.about-details-container {
   display: flex;
 }
 
